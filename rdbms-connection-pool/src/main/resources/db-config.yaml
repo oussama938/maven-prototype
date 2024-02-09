@@ -1,0 +1,6 @@
+databaseName: "epirh"
+host: "localhost"
+port: 5432
+username : "postgres"
+password: "postgre"
+poolSize: 1

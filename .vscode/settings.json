@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "rdbms-connection-pool/src/main/java",
+        "logging-utils/src/main/java"
+    ],
+    "maven.view": "flat",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

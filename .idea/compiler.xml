@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="logging-utils" />
+        <module name="jfx-app" />
+        <module name="xmart-city-client-commons" />
+        <module name="xmart-city-business-dto" />
+        <module name="xmart-city-commons" />
+        <module name="xmart-zity-backend" />
+        <module name="xmart-select-client" />
+        <module name="xmart-insert-client" />
+        <module name="rdbms-connection-pool" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
